@@ -31,7 +31,9 @@ TOC :
     .home-title {
         font-size: 54px;
     }
-
+    #home {
+        background-attachment:scroll;
+    }
     .home-subtitle {
         font-size: 16px;
     }
