@@ -582,9 +582,6 @@ header.nav.hide-menu {
 
 #home {
     background: url('../../images/home-bg.jpg') no-repeat fixed center center / cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
 }
 
 #home .sec-overlay {
