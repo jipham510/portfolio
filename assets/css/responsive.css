@@ -32,7 +32,7 @@ TOC :
         font-size: 54px;
     }
     #home {
-        background: url('../../images/home-bg.jpg') no-repeat scroll center center / cover;
+        background-size: auto 100vh;
     }
     .home-subtitle {
         font-size: 16px;
